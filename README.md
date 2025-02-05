@@ -14,18 +14,16 @@ Apresentação.
 - Programação Orientada a Objetos  
 - Spring Boot  
 - Integração de APIs RESTful  
-- Apache NiFi e Apache Airflow  
 
 ---
 
 ## 📚 Certificações  
 - **Java: Trabalhando com Listas e Coleções de Dados** - Alura  
-- **Desenvolvimento Java com Orientação a Objetos**  
+- **Desenvolvimento Java com Orientação a Objetos**  - Alura
 
 ---
 
 ## 💼 Projetos em Destaque  
-- 🔗 [Projeto de Integração Airflow e Spark](#)  
 - 🔗 [API RESTful com Spring Boot](#)  
 - 🔗 [Simulador de Sistema de Vendas em Java](#)  
 
