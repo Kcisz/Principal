@@ -29,5 +29,5 @@ Apresentação.
 ---
 
 ## 🚀 Contato  
-📧 [seuemail@exemplo.com]  
-💼 [LinkedIn](#)
+📧 [kayocisz@gmail.com]  
+💼 [https://www.linkedin.com/in/kayocisz/](#)
